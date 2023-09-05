@@ -1,0 +1,21 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border: 2px solid #fff;
+    border-radius: 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: #5de95d;
+}
+.botonClick{
+    background-color: aqua;
+}
+.botonReiniciar{
+    background-color: rgb(25, 219, 177);
+}
